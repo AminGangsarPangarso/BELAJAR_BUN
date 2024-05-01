@@ -1,0 +1,1 @@
+console.log("Hello syafa apa kabar!");
